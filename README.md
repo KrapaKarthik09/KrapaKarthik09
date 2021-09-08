@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karthik Krapa</h1>
+<h1 align="center">Konnichiwa, I'm Karthik Krapa</h1>
 <h3 align="center">An Explorer in the field of AI | ML | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krapakarthik09&label=Profile%20views&color=0e75b6&style=flat" alt="krapakarthik09" /> </p>
