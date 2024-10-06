@@ -1,9 +1,9 @@
 <h1 align="center">Konnichiwa, I'm Karthik Krapa</h1>
-<h3 align="center">An Explorer in the field of AI | ML | Data Science | Cloud </h3>
+<h3 align="center">An Explorer in the field of Cloud | DevOps | Machine Learning | Solutions Architecture </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krapakarthik09&label=Profile%20views&color=0e75b6&style=flat" alt="krapakarthik09" /> </p>
 
-- 🌱 I’m currently learning **ML & DS Methodologies**
+- 🌱 I’m currently pursuing my Masters Degree in Computer Science at New York University (NYU)
 
 - 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
