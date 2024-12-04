@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Coming soon](Coming soon)
 
-- 📫 How to reach me **karthik.krapa@gmail.com**
+- 📫 How to reach me **karthik.krapa18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
