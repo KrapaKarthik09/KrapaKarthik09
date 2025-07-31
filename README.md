@@ -33,6 +33,5 @@
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://python.langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krapakarthik09&show_icons=true&locale=en" alt="krapakarthik09" /></p>
