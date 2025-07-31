@@ -18,7 +18,7 @@
 ☁️ **Expertise**: Cloud Solutions Architecture, DevOps, MLOps  
 📫 **Contact**: karthik.krapa18@gmail.com  
 
-## 🤝 Let's Connect
+## Let's Connect <>
 
 <a href="https://www.linkedin.com/in/karthik-krapa-kk18/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -74,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krapakarthik09&show_icons=true&locale=en" alt="GitHub Stats" />
