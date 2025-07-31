@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 **Master of Science in Computer Science** at New York University (NYU)  
+🎓 **Master of Science in Computer Science (Pursuing)** at New York University (NYU)  
 🤖 **Focus Areas**: Agentic AI Systems  
 ☁️ **Expertise**: Cloud Solutions Architecture, DevOps, MLOps  
 📫 **Contact**: karthik.krapa18@gmail.com  
