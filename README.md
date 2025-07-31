@@ -1,9 +1,11 @@
-<h1 align="center">Konnichiwa, I'm Karthik Krapa</h1>
-<h3 align="center">An Explorer in the field of Machine Learning | Cloud | DevOps | Solutions Architecture | </h3>
+<h1 align="center">Konnichiwa, I'm Krapa Karthik</h1>
+<h3 align="center">Machine Learning Engineer & Solutions Architecture | Specializing in Agentic AI Systems & Cloud Architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krapakarthik09&label=Profile%20views&color=0e75b6&style=flat" alt="krapakarthik09" /> </p>
 
-- 🌱 I’m currently pursuing my Masters Degree in Computer Science at New York University (NYU)
+- 🎓 **Master of Science in Computer Science** at New York University (NYU)
+- 🤖 **Focus Areas**: Agentic AI Systems
+- ☁️ **Expertise**: Cloud Solutions Architecture, DevOps, MLOps
 
 - 📫 How to reach me **karthik.krapa18@gmail.com**
 
@@ -30,12 +32,7 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  
-  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>-->
-  <!-- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>-->
-  <!-- <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>--> 
-  <!-- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>--> 
-  <!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>-->
-  <!--<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>--> </p>
+  <a href="https://python.langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krapakarthik09&show_icons=true&locale=en" alt="krapakarthik09" /></p>
